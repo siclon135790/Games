@@ -11,7 +11,7 @@
 repeat wait() until game:IsLoaded()
 
 if Key == nil then
-    getgenv().Key = "R3TH PRIV"
+    getgenv().Key = "A4xKXWEDyiiwcaAbYfQxxmxiqL6KlurD"
 end
 
 local NotificationHolder = loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Module.Lua"))()
